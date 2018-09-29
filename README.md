@@ -1,5 +1,7 @@
 # Repo Xpto Software Engineer
 
+[Here is an article about this repo.](https://medium.com/@dedecu/build-a-flask-api-as-assignment-for-the-software-engineer-position-80ddbb6465a1)
+
 1. How do I get set up? Set up Install python 3.x and Create a virtualenv:
     [See here how to](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/)
 
