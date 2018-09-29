@@ -1,0 +1,26 @@
+           
+
+
+
+
+
+
+
+
+
+            _________
+                ├── config.py
+                ├── create_tables.py
+                ├── db
+                │   └── test.db    
+                ├── runserver.py
+                ├── test.py    ------------> Test script supplied by the recruiter (Fixed)        
+                ├── testunitt.py
+                └── web
+                    ├── api
+                    │   ├── app.py
+                    │   ├── client.py  ----> Methods - JSON Api 
+                    │   ├── models.py  ----> ORM models using SqlAlchemy
+                    │   └── utils.py
+                    └── utils.py
+
